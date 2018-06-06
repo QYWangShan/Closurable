@@ -1,0 +1,31 @@
+PODS:
+  - Closurable (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - SwiftLint (0.25.1)
+
+DEPENDENCIES:
+  - Closurable (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  Closurable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Closurable: 569139c8c85a1344855c6236007b10423f2ace24
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  SwiftLint: ce933681be10c3266e82576dad676fa815a602e9
+
+PODFILE CHECKSUM: 8e891c712f400b75a0d7ae5a5d0c82e89d069488
+
+COCOAPODS: 1.5.2
